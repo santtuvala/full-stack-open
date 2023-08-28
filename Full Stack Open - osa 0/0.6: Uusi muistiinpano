@@ -1,1 +1,6 @@
-
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin->selain: 201 luotu
+note over selain:
+Selain suorittaa tapahtumakäsittelijän
+joka näyttää muistiinpanot
+end note
